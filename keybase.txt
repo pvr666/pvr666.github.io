@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/pvr
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://pvr666.github.io
+  * I am pvr (https://keybase.io/pvr) on keybase.
+  * I have a public key ASCCstIvl3sb2eNYPvp0zkKX8oEZqjuAdug1DhnUZKz6mgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012082b2d22f977b1bd9e3583efa74ce4297f28119aa3b8076e8350e19d464acfa9a0a",
+      "host": "keybase.io",
+      "kid": "012082b2d22f977b1bd9e3583efa74ce4297f28119aa3b8076e8350e19d464acfa9a0a",
+      "uid": "c1bdbe82f68f4ccbb814fc05a7b19819",
+      "username": "pvr"
+    },
+    "merkle_root": {
+      "ctime": 1512863523,
+      "hash": "31bbfc02835a110f4116f2f8a7e375fad099321b06ed8eec4850407196b5832d0c2d9288a072882cf4f919abd422cd951ece3f151f2a673fbc787ecb646c45e5",
+      "hash_meta": "f599e8e624dd816b2dbe44c17cf5638b1e481eed599feb0f64d3ec67d499f05f",
+      "seqno": 1796776
+    },
+    "service": {
+      "hostname": "pvr666.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.34"
+  },
+  "ctime": 1512863530,
+  "expire_in": 504576000,
+  "prev": "d6d2db1df83b408a2f54f9e80d028c6637f939571f95156e9a0b8b09b6b8eff2",
+  "seqno": 7,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEggrLSL5d7G9njWD76dM5Cl/KBGao7gHboNQ4Z1GSs+poKp3BheWxvYWTFA0N7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwODJiMmQyMmY5NzdiMWJkOWUzNTgzZWZhNzRjZTQyOTdmMjgxMTlhYTNiODA3NmU4MzUwZTE5ZDQ2NGFjZmE5YTBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwODJiMmQyMmY5NzdiMWJkOWUzNTgzZWZhNzRjZTQyOTdmMjgxMTlhYTNiODA3NmU4MzUwZTE5ZDQ2NGFjZmE5YTBhIiwidWlkIjoiYzFiZGJlODJmNjhmNGNjYmI4MTRmYzA1YTdiMTk4MTkiLCJ1c2VybmFtZSI6InB2ciJ9LCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTUxMjg2MzUyMywiaGFzaCI6IjMxYmJmYzAyODM1YTExMGY0MTE2ZjJmOGE3ZTM3NWZhZDA5OTMyMWIwNmVkOGVlYzQ4NTA0MDcxOTZiNTgzMmQwYzJkOTI4OGEwNzI4ODJjZjRmOTE5YWJkNDIyY2Q5NTFlY2UzZjE1MWYyYTY3M2ZiYzc4N2VjYjY0NmM0NWU1IiwiaGFzaF9tZXRhIjoiZjU5OWU4ZTYyNGRkODE2YjJkYmU0NGMxN2NmNTYzOGIxZTQ4MWVlZDU5OWZlYjBmNjRkM2VjNjdkNDk5ZjA1ZiIsInNlcW5vIjoxNzk2Nzc2fSwic2VydmljZSI6eyJob3N0bmFtZSI6InB2cjY2Ni5naXRodWIuaW8iLCJwcm90b2NvbCI6Imh0dHBzOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4zNCJ9LCJjdGltZSI6MTUxMjg2MzUzMCwiZXhwaXJlX2luIjo1MDQ1NzYwMDAsInByZXYiOiJkNmQyZGIxZGY4M2I0MDhhMmY1NGY5ZTgwZDAyOGM2NjM3ZjkzOTU3MWY5NTE1NmU5YTBiOGIwOWI2YjhlZmYyIiwic2Vxbm8iOjcsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RAkeq1snKgtmmrCxpaQzM5/zejjuRShx4Pti7H81kI3Bc1y0OBRJvNhIp/eqU987uVkC41iH/feLSBxaptMB+wCahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIFagO1aDfJVkHcnIPSAcWMB3Ww6auY2X3eP2eyFVpQ2Co3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/pvr
+
+==================================================================
